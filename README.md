@@ -1,5 +1,4 @@
-# About
-Why should you use TCS?
+# Why should you use TCS?
 
 TCS does not have microphone permission when you are didn't speaking.
 
