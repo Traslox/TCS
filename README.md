@@ -12,4 +12,5 @@ Trailer video: https://www.youtube.com/watch?v=w9kuFId7GhM&t=190s
 (dont forget open the subtitles)
 # More details
 Your security responsibility has Essential Objects. This app uses NuGet of Essential Objects to work.
+
 More information about Essential Objects: https://www.essentialobjects.com/#WebBrowser
