@@ -1,6 +1,8 @@
 # About TCS
-Then why you should use TCS. 
+Then why you should use TCS.
+
 TCS didnt have permission to microphone when you are didnt speaking.
+
 We didnt take your activity data for your privacy.
 
 # More details
