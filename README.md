@@ -21,9 +21,9 @@ Youtube: https://www.youtube.com/channel/UCjyn4GXqn2IfX8CVnYyeVxQ
 
 Reddit: https://www.reddit.com/user/Traslox
 
-nizam.cevahir@gmail.com
+nizam.cevahir@gmail
 
-nizam.cevahir@hotmail.com
+nizam.cevahir@hotmail
 
 # More details
 Your security responsibility has Essential Objects. This app uses NuGet of Essential Objects to work.
