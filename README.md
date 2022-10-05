@@ -18,8 +18,11 @@ Also you can develop this project for your self ideas or productivity. This appl
 # How to contacth with main devoloper?
 
 Youtube: https://www.youtube.com/channel/UCjyn4GXqn2IfX8CVnYyeVxQ
+
 Reddit: https://www.reddit.com/user/Traslox
+
 nizam.cevahir@gmail.com
+
 nizam.cevahir@hotmail.com
 
 # More details
