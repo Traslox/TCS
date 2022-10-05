@@ -15,7 +15,7 @@ Trailer video: https://www.youtube.com/watch?v=w9kuFId7GhM&t=190s
 TCS's code is so basic. You can understand very easily. New starter .net (or C#) devs can practice with this project.
 Also you can develop this project for your self ideas or productivity. This application made with VS(Visual Studio).
 
-# How to contacth with main devoloper?
+# How to contact with main devoloper?
 
 Youtube: https://www.youtube.com/channel/UCjyn4GXqn2IfX8CVnYyeVxQ
 
