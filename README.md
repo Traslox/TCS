@@ -9,6 +9,12 @@ You can use all communication media in one app for more productivity.
 Trailer video: https://www.youtube.com/watch?v=w9kuFId7GhM&t=190s
 
 (dont forget open the subtitles)
+
+# TCS is open source and why?
+
+TCS's code is so basic. You can understand very easily. New starter .net (or C#) devs can practice with this project.
+Also you can develop this project for your self ideas or productivity.
+
 # More details
 Your security responsibility has Essential Objects. This app uses NuGet of Essential Objects to work.
 
