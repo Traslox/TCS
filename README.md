@@ -19,8 +19,6 @@ Also you can develop this project for your self ideas or productivity. This appl
 
 Youtube: https://www.youtube.com/channel/UCjyn4GXqn2IfX8CVnYyeVxQ
 
-Reddit: https://www.reddit.com/user/Traslox
-
 nizam.cevahir@gmail
 
 nizam.cevahir@hotmail
