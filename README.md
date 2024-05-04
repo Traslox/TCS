@@ -23,3 +23,6 @@ Traslox@gmail.com
 Your security responsibility has Essential Objects. This app uses NuGet of Essential Objects to work.
 
 More information about Essential Objects: https://www.essentialobjects.com/#WebBrowser
+
+# Devolopment Stopped
+Stopped in 2023
