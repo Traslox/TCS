@@ -6,9 +6,7 @@ We do not take your activity data for your privacy.
 
 You can use all communication media in one app for more productivity.
 
-Trailer video: https://www.youtube.com/watch?v=w9kuFId7GhM&t=190s
-
-(dont forget open the subtitles)
+Trailer video for [TCS 2](https://github.com/Traslox/TCS-2): https://youtu.be/qodewkZ58O0?si=ujfpsqWwGuPimmHW
 
 # TCS is open source and why?
 
@@ -19,9 +17,7 @@ Also you can develop this project for your self ideas or productivity. This appl
 
 Youtube: https://www.youtube.com/channel/UCjyn4GXqn2IfX8CVnYyeVxQ
 
-nizam.cevahir@gmail
-
-nizam.cevahir@hotmail
+Traslox@gmail.com
 
 # More details
 Your security responsibility has Essential Objects. This app uses NuGet of Essential Objects to work.
