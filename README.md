@@ -16,6 +16,7 @@ Also you can develop this project for your self ideas or productivity. This appl
 # How to contact with main devoloper?
 
 [Youtube](https://www.youtube.com/channel/UCjyn4GXqn2IfX8CVnYyeVxQ)
+
 Traslox@gmail.com
 
 # More details
