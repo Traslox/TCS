@@ -6,7 +6,7 @@ We do not take your activity data for your privacy.
 
 You can use all communication media in one app for more productivity.
 
-Trailer video for [TCS 2](https://github.com/Traslox/TCS-2): https://youtu.be/qodewkZ58O0?si=ujfpsqWwGuPimmHW
+[Trailer video](https://youtu.be/qodewkZ58O0?si=ujfpsqWwGuPimmHW) for [TCS 2](https://github.com/Traslox/TCS-2)
 
 # TCS is open source and why?
 
